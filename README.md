@@ -53,7 +53,7 @@ Steps performed using Python:
 
 	
 5. **Geographics** — Geographic performance, channel distribution, % of Total Revenue, Number of States, Total Orders, Total Revenue
-	- <img width="1418" height="796" alt="Geographics" src="https://github.com/user-attachments/assets/73db8552-ed57-47c6-bfc7-630c3d3dfa5c" />
+	 <img width="1418" height="796" alt="Geographics" src="https://github.com/user-attachments/assets/73db8552-ed57-47c6-bfc7-630c3d3dfa5c" />
 
 
 ### Recommendations
@@ -78,6 +78,7 @@ Steps performed using Python:
 ### 📞 Contact
 - **Name:** Loay Ayman
 - **LinkedIn:** https://linkedin.com/in/loayayman
+
 
 
 
