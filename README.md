@@ -56,6 +56,14 @@ Steps performed using Python:
 	- <img width="1418" height="796" alt="Geographics" src="https://github.com/user-attachments/assets/73db8552-ed57-47c6-bfc7-630c3d3dfa5c" />
 
 
+### Recommendations
+- Seasonal Promotions: Launch recovery campaigns in April and amplify January offers to smooth revenue swings.
+- SKU Optimization: Double down on top products 26 & 25 and re-evaluate pricing or phase out low‑margin SKUs.
+- Channel Expansion: Incentivize Export partnerships for high margins and introduce volume deals in Wholesale.
+- Regional Investment: Replicate California’s success in other regions and boost marketing in the Northeast & Midwest.
+- Margin Monitoring: Flag orders below 80 % margin and analyse cost drivers to uplift underperforming segments.
+
+
 
 ### File Structure
 ```
@@ -70,6 +78,7 @@ Steps performed using Python:
 ### 📞 Contact
 - **Name:** Loay Ayman
 - **LinkedIn:** https://linkedin.com/in/loayayman
+
 
 
 
