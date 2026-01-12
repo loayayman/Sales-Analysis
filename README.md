@@ -39,12 +39,23 @@ Steps performed using Python:
 - **Top Customers:** **Aibox Company** — top revenue (~$3.5M) and orders (139) 
 
 ### Dashboard Visualization
-1. **Executive Summary** — Overview KPIs (Total Revenue, Profit, Sales Trends)
-	- `images/dashboard_overview.png`
-2. **Regional & Channel Analysis** — Geographic performance and channel distribution
-	- `images/regional_view.png`
-3. **Product & Customer Deep-Dive** — Top products and key customer accounts
-	- `images/product_insights.png`
+1. **Navigation Page**
+	- <img width="1310" height="741" alt="Nav" src="https://github.com/user-attachments/assets/97e3da74-80a1-4e96-b94b-643ee9fb97b6" />
+
+2. **Summary** — Overview KPIs (Total Revenue, Total Profit, Sales Trends, Profit Margin, Return over Investment (ROI))
+	- <img width="1306" height="737" alt="Overview" src="https://github.com/user-attachments/assets/7eabbe6a-2fd5-4de1-ab12-2d911110720a" />
+	
+3. **Product** — Top products, Cost to Profit Ratio, Total Units Sold, Total Orders
+	- <img width="1310" height="740" alt="Products" src="https://github.com/user-attachments/assets/47b00212-9e5f-4e82-a0d9-e927c4b4d6fa" />
+
+4. **Customers** — Top Customers, Total Customers, Total Units Sold, Total Orders, Average Orders per Customer
+	- <img width="1305" height="737" alt="Customers" src="https://github.com/user-attachments/assets/4a6c2167-96c8-4bce-83bb-3016f88dadb1" />
+
+	
+5. **Geographics** — Geographic performance, channel distribution, % of Total Revenue, Number of States, Total Orders, Total Revenue
+	- <img width="1418" height="796" alt="Geographics" src="https://github.com/user-attachments/assets/73db8552-ed57-47c6-bfc7-630c3d3dfa5c" />
+
+
 
 ### File Structure
 ```
@@ -59,5 +70,6 @@ Steps performed using Python:
 ### 📞 Contact
 - **Name:** Loay Ayman
 - **LinkedIn:** https://linkedin.com/in/loayayman
+
 
 
