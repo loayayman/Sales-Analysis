@@ -21,7 +21,7 @@ Steps performed using Python:
 1. **Cleaning:** Handle missing values and standardize date formats
 2. **Merging:** Consolidated multiple CSVs into a master dataset (`sales.csv`)
 3. **Feature Engineering:**
-	- Calculated **Revenue**, **Total Cost**, and **Profit**
+	- Calculated **Total Cost**, and **Profit**
 	- Derived **Profit Margin %**, **Return ober Investmant (ROI) %**, **Cost to Profit Ratio**, **Average Orders per Customer**, and **% of Total Revenue per State**
 
 
