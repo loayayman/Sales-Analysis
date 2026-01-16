@@ -42,7 +42,7 @@ Steps performed using Python:
 1. **Navigation Page**
 	 <img width="1310" height="741" alt="Nav" src="https://github.com/user-attachments/assets/97e3da74-80a1-4e96-b94b-643ee9fb97b6" />
 
-2. **Summary** — Overview KPIs (Total Revenue, Total Profit, Sales Trends, Profit Margin, Return over Investment (ROI))
+2. **Overview** — Overview KPIs (Total Revenue, Total Profit, Sales Trends, Profit Margin, Return over Investment (ROI), etc.)
 	 <img width="1306" height="737" alt="Overview" src="https://github.com/user-attachments/assets/7eabbe6a-2fd5-4de1-ab12-2d911110720a" />
 	
 3. **Product** — Top products, Cost to Profit Ratio, Total Units Sold, Total Orders
@@ -52,7 +52,7 @@ Steps performed using Python:
 	 <img width="1305" height="737" alt="Customers" src="https://github.com/user-attachments/assets/4a6c2167-96c8-4bce-83bb-3016f88dadb1" />
 
 	
-5. **Geographics** — Geographic performance, channel distribution, % of Total Revenue, Number of States, Total Orders, Total Revenue
+5. **Geographics** — Geographic performance, % of Total Revenue, Number of States, Total Orders, Total Revenue
 	 <img width="1418" height="796" alt="Geographics" src="https://github.com/user-attachments/assets/73db8552-ed57-47c6-bfc7-630c3d3dfa5c" />
 
 
@@ -78,6 +78,7 @@ Steps performed using Python:
 ### 📞 Contact
 - **Name:** Loay Ayman
 - **LinkedIn:** https://linkedin.com/in/loayayman
+
 
 
 
