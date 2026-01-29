@@ -75,9 +75,11 @@ Steps performed using Python:
 └── README.md                   # Project documentation
 ```
 
-### 📞 Contact
-- **Name:** Loay Ayman
+## 👤 Author
+**Loay Ayman**
 - **LinkedIn:** https://linkedin.com/in/loayayman
+- **Portfolio:** https://loayayman.vercel.app/
+
 
 
 
